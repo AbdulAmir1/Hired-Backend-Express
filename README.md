@@ -1,1 +1,27 @@
-# Hired-Backend-Express
+# Hired-Backend-Express# Pre-Hire Test
+
+## About the Website
+
+The website serves as a pre-employment screening tool to view a candidate's qualifications, and skills in a results-driven format.
+
+## Developer
+- [Abdul Amir](https://github.com/AbdulAmir1) | [Linkedin](https://www.linkedin.com/in/abdulameer-saleh/)
+
+Development progress and tasks were managed using the following [Trello Board](https://trello.com/b/nmmcmpPR/hired).
+
+### User Features
+
+- **Test Taking**: Users can select a test  by selecting available tests, see the test results, and detailed score report, and repeat the test they already failed.
+- **View Available Tests**: Users can view detailed information about tests available, including descriptions, difficulty levels, and scoring system followed by the creator by navigating to the available tests and clicking on view details.
+
+
+### Test Creator Features
+
+- **Tests Types**: The user can add, delete, and update different tests along with detailed descriptions, including type speed tests, language tests, and other tests  to the system.
+
+
+## Technologies Used
+
+- [Python](https://www.python.org/)
+- [Vuejs](https://vuejs.org/)
+- [PostgreSQL](https://www.postgresql.org/)
